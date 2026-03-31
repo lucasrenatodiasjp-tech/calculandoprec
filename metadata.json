@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Preço Justo - Analista Quant",
+  "description": "Ferramenta profissional para valuation de ações utilizando DCF Simplificado, Graham e Bazin, com ajuste de risco qualitativo.",
+  "requestFramePermissions": []
+}
